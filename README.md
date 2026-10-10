@@ -1,6 +1,6 @@
 # The Honored Math Library
 
-This is a small Java mathematics library built from scratch intended to aid in game development.
+This is a small Java mathematics library intended to aid in calculations for rendering in 3D space.
 
 ## Features
 - Vector4 Class:
